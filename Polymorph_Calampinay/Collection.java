@@ -4,6 +4,6 @@ package Polymorph_Calampinay;
 
 
     public void allCollection() {
-        System.out.println("You sift through the different rocks and found the following metals: ");
+        System.out.println("You open up the rocks and found the following metals: ");
     }
 }
