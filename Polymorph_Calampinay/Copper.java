@@ -4,7 +4,6 @@ package Polymorph_Calampinay;
 
     public void allCollection() {
         System.out.print("Copper");
-        System.out.println(" - a great conductor and wildly know for its malleability.");
     }
 
 }
